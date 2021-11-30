@@ -7,8 +7,8 @@ const Home = () => {
     <div>
       <div className="__hero" id="Hero">
         <div className="__hero-left">
-          <h1>This is the Big Heading</h1>
-          <p>This will be the subheader of the hero. And will have more text</p>
+          <h1>BECS Instant Messaging</h1>
+          <p>BECS helps you connect and share with the people in your life.</p>
           {/* <Button href="#">Sign Up with Google</Button> */}
           {/* <Button type="submit">Button</Button>{' '} */}
           {/* <button className="__btn">Sign Up with Google</button> */}

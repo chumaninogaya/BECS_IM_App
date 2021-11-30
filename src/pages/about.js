@@ -6,35 +6,31 @@ const About = () => {
       <h2>About Us</h2>
 
       <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum
+        BECS instant messaging (IM) technology is a type of online chat allowing
+        real-time text transmission over the Internet or another computer
+        network. Messages are typically transmitted between two or more parties,
+        when each user inputs text and triggers a transmission to the
+        recipient(s), who are all connected on a common network. It differs from
+        email in that conversations over instant messaging happen in real-time
+        (hence "instant"). Most modern IM applications (sometimes called "social
+        messengers", "messaging apps" or "chat apps") use push technology and
+        also add other features such as emojis (or graphical smileys), file
+        transfer, chatbots, Voice over IP, or video chat capabilities.
       </p>
       <br />
       <br />
       <p>
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It
-        has roots in a piece of classical Latin literature from 45 BC, making it
-        over 2000 years old. Richard McClintock, a Latin professor at
-        Hampden-Sydney College in Virginia, looked up one of the more obscure
-        Latin words, consectetur, from a Lorem Ipsum passage, and going through
-        the cites of the word in classical literature, discovered the
-        undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33
-        of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by
-        Cicero, written in 45 BC. This book is a treatise on the theory of
-        ethics, very popular during the Renaissance. The first line of Lorem
-        Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-        1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is
-        reproduced below for those interested. Sections 1.10.32 and 1.10.33 from
-        "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their
-        exact original form, accompanied by English versions from the 1914
-        translation by H. Rackham.
+        BECS Instant messaging systems tend to facilitate connections between
+        specified known users (often using a contact list also known as a "buddy
+        list" or "friend list"), and can be standalone applications or
+        integrated into e.g. a wider social media platform, or a website where
+        it can for instance be used for conversational commerce. IM can also
+        consist of conversations in "chat rooms". Depending on the IM protocol,
+        the technical architecture can be peer-to-peer (direct point-to-point
+        transmission) or client–server (an IM service center retransmits
+        messages from the sender to the communication device). It is usually
+        distinguished from text messaging which is typically simpler and
+        normally uses cellular phone networks.
       </p>
     </div>
     // </div>
